@@ -1,0 +1,19 @@
+{
+  "name": "plugin-sample",
+  "owner": {
+    "name": "apc-nonoshita",
+    "email": "t_nonoshita@ap-com.co.jp"
+  },
+  "metadata": {
+    "description": "Sample plugin marketplace for GitHub Copilot CLI",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "travel-planner",
+      "description": "旅行・おでかけの計画を立てるためのプラグインサンプル",
+      "version": "1.0.0",
+      "source": "."
+    }
+  ]
+}
