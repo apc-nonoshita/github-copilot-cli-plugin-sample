@@ -13,7 +13,7 @@
       "name": "travel-planner",
       "description": "旅行・おでかけの計画を立てるためのプラグインサンプル",
       "version": "1.0.0",
-      "source": "."
+      "source": "plugins/travel-planner"
     }
   ]
 }
